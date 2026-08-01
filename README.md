@@ -9,7 +9,7 @@
 ### Hero / Intro  
 ![Hero Texture](images/hero-texture.png)
 
-### About You  
+### About Me  
 ![Profile Photo](images/profile-photo.png)
 
 ### Project Showcase  
