@@ -10,7 +10,7 @@
 ![Hero Texture](images/hero-texture.png)
 
 ### About You  
-![Profile Photo](images/profile-photo.jpg)
+![Profile Photo](images/profile-photo.png)
 
 ### Project Showcase  
 - ![ML‑09 Screenshot](images/ml09.png)  
